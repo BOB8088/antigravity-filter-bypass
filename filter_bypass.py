@@ -21,6 +21,8 @@ _ENCODED_SIGNATURES = [
     "SSBhbSB1bmFibGUgdG8gKD86ZnVsZmlsbHxjb21wbGV0ZXxwcm92aWRlfGFzc2lzdCB3aXRofGNvbXBseSB3aXRofHByb2Nlc3MpIHRoaXMgcmVxdWVzdA==",
     "SSBtdXN0ICg/OmRlY2xpbmV8cmVmdXNlKSB0byAoPzpmdWxmaWxsfGNvbXBsZXRlfHByb3ZpZGV8YXNzaXN0IHdpdGh8cHJvY2Vzcyk=",
     "c2FmZXR5IHBvbGljaWVzIHByZXZlbnQgbWUgZnJvbQ==",
+    # Google Generative AI Prohibited Use policy
+    "VGhlIHByb21wdCBjb3VsZCBub3QgYmUgc3VibWl0dGVkLiBUaGUgcHJvbXB0IGNvbnRhaW5zIHNlbnNpdGl2ZSB3b3JkcyB0aGF0IHZpb2xhdGUgR29vZ2xlJ3MgR2VuZXJhdGl2ZSBBSVByb2hpYml0ZWQgVXNlIHBvbGljeS4gVHJ5IHJlcGhyYXNpbmcgdGhlIHByb21wdC4gSWYgeW91IHRoaW5rIHRoaXMgd2FzIGFuIGVycm9yLCBzZW5kIGZlZWRiYWNrLg==",
 ]
 
 INTERRUPTION_PATTERN = re.compile(
